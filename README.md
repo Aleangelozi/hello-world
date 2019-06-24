@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 
 Hi!
 Alessandro here, I like Java, IA and other stuffs beyond programming.
